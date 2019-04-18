@@ -1,3 +1,5 @@
+自己改写了所提供的源代码，用tensorflow实现源代码的改写，用于对cifar10数据集进行分类
+
 # OctaveConv
 A MXNet Implementation for Drop an Octave
 
